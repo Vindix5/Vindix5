@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "login": "Vindix5",
+  "seed": "#004BC4",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "buttons",
+    "streak",
+    "wave"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm Vindix:D",
+    "name": "",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russian"
+      },
+      {
+        "icon": "brand:lua",
+        "label": "Lua"
+      },
+      {
+        "icon": "brand:godotengine",
+        "label": "Godot engine"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "Godot engine"
+          },
+          {
+            "icon": "brand:haxe",
+            "label": "Haxe"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:blender",
+            "label": "Blender"
+          },
+          {
+            "icon": "brand:blockbench",
+            "label": "Blockbench"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/vindix_1"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/channel/UCR1ZqT1Ansu6beakYkNd8xA"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/VindixCommunity"
+      },
+      {
+        "icon": "brand:gamebanana",
+        "url": "https://gamebanana.com/members/2120572"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": []
+  }
+}
